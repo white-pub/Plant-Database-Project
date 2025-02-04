@@ -1,6 +1,6 @@
 # For better integration with the database and future maintenance, this project and website has changed to another repository.
 
-link: https://github.com/CUNE-Programming/herbarium
+link to new repository: https://github.com/CUNE-Programming/herbarium
 
 
 The goal of this project is to digitize a large collection of pressed
